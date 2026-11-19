@@ -1,0 +1,19 @@
+{
+  "test_user_1": {
+    "character_name": "Нордий",
+    "level": "beginner",
+    "liked_classes": [
+      "варвар"
+    ],
+    "disliked_classes": [
+      "маги"
+    ],
+    "liked_weapons": [
+      "топоры"
+    ],
+    "disliked_weapons": [
+      "фаерболы"
+    ],
+    "negative_count": 0
+  }
+}
